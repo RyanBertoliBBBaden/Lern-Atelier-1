@@ -1,7 +1,7 @@
 # Lern-Periode 5 / 6 / 7 / 8
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Ryan Bertoli
+- Zeitraum: 21.08.2026 bis tt.mm.jjjj
 
 ## Grob-Planung
 
