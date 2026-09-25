@@ -37,7 +37,7 @@ Ich werde mich das nächste Mal auf die Module konzentrieren, da ich im Rücksta
 - [X] Modul 431 | Auftrag 7 | bearbeiten
 - [ ] Modul 431 | Auftrag 8 | bearbeiten
 
-Heute habe ich Auftrag 6 fast fertiggestellt und habe Andreas wieder geholfen bein seiner Aufgabe 6.
+Heute habe ich Auftrag 6 fast fertiggestellt und habe Andreas wieder geholfen bei seiner Aufgabe 6.
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
