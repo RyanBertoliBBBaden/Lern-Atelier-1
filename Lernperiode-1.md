@@ -1,7 +1,7 @@
 # Lern-Periode 1
 
 - Name: Ryan Bertoli
-- Zeitraum: 21.08.2026 bis tt.mm.jjjj
+- Zeitraum: 21.08.2026 bis 25.09.2026
 
 ## Grob-Planung
 
@@ -62,10 +62,21 @@ Ich werde mich das nächste Mal auf die Module konzentrieren, da ich im Rücksta
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Modul 431 | Auftrag 6 | bearbeiten
-- [ ] Modul 431 | Auftrag 7 | bearbeiten
+- [X] Modul 431 | Auftrag 7 | bearbeiten
 - [ ] Modul 431 | Auftrag 8 | bearbeiten
 
 Heute habe ich Auftrag 6 fast fertiggestellt und habe Andreas wieder geholfen bein seiner Aufgabe 6.
+
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Coden mit ChatGPT, aber noch kein gutes Resultat
+- [X] Modul 431 | Auftrag 7 | bearbeiten
+- [ ] Modul 431 | Auftrag 8 | bearbeiten
+
+Heute habe ich versucht mit ChatGPT einen Code zu schreiben, 
+aber es ist keine Idee daraus gekommen die mir gefällt. 
+Ich habe Aufgabe 7 bearbeitet und Auftrag 8 noch nicht geschafft.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
