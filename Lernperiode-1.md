@@ -19,34 +19,6 @@
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
-
-### Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
-### Planung 16.08.2024
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
