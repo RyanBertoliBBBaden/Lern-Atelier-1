@@ -1,4 +1,4 @@
-# Lern-Periode NR
+# Lern-Periode 2
 <!--
 **ANLEITUNG**
 
@@ -18,10 +18,13 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 8.  Speichern Sie die Datei und publizieren Sie sie (`git push`).
 -->
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Ryan Bertoli
+- Zeitraum: 06.10.26 bis tt.mm.jjjj
 
 ## Grob-Planung
+
+richtiges Projekt anfangen mit Andreas,
+Mögliche Aufgaben vom Dienstag/Mittwoch nachholen
 
 ### Noten
 <!--
